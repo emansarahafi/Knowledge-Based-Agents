@@ -1,6 +1,6 @@
 # Knowledge-Based Agents
 
-A Python implementation of AI agents that solve logic puzzles using propositional logic and model checking. This project demonstrates how to represent and solve "Knights and Knaves" puzzles through knowledge-based reasoning.
+A Python implementation of solving logic puzzles using propositional logic and model checking. This project demonstrates how to represent and solve "Knights and Knaves" puzzles through knowledge-based reasoning.
 
 ## Overview
 
